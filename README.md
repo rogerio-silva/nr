@@ -4,6 +4,9 @@ Copyright (c) 2022 Centre Tecnologic de Telecomunicacions de Catalunya (CTTC)
 SPDX-License-Identifier: GPL-2.0-only
 -->
 
+# Forked by CTTC-LENA-NR
+## Adapted version in development, to access the original version go to [cttc-lena-nr](https://gitlab.com/cttc-lena/nr).
+
 [![REUSE status](https://api.reuse.software/badge/gitlab.com/cttc-lena/nr)](https://api.reuse.software/info/gitlab.com/cttc-lena/nr)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7780747.svg)](https://doi.org/10.5281/zenodo.7780747)
 
